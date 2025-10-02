@@ -79,8 +79,8 @@ Não sou apenas informático/programador — trago espírito empreendedor e dedi
 
 ## 🐍 GitHub Snake Game
 
-![GitHub Snake Light](https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/PedroVenda27/seu-username/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://github.com/PedroVenda27/seu-username/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
