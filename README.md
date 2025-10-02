@@ -20,11 +20,8 @@ Tenho especial interesse em **redes e comunicação de dados, cibersegurança, b
 
 Não sou apenas informático/programador — trago espírito empreendedor e dedicação a cada projeto.  Valorizo o pensamento crítico e estratégico, a aprendizagem rápida e o trabalho em equipa.  Se esta visão fizer sentido para ti, vamos colaborar 🚀
 
-### 🌐 Liga-te a mim
-[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.venda27@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/home/?originalSubdomain=pt)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVenda27)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedro._.27)  
+### 🌐 Liga-te a mim  
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.venda27@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/home/?originalSubdomain=pt) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVenda27) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/pedro._.27)
 
 > **Curiosidade:** Fora do mundo informatico, sou apaixonado por tecnnologia, Velocidade Desportos Motorizados e Desporto  — áreas que me inspiram tanto quanto a programação 🚀🏎️⚽💻
  
@@ -56,6 +53,9 @@ Não sou apenas informático/programador — trago espírito empreendedor e dedi
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### Redes & Segurança
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 ### Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -66,8 +66,6 @@ Não sou apenas informático/programador — trago espírito empreendedor e dedi
 ![AI Studio](https://img.shields.io/badge/AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-### Redes & Segurança
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -77,18 +75,10 @@ Não sou apenas informático/programador — trago espírito empreendedor e dedi
 
 ---
 
-## 🐍 GitHub Snake Game
+<div align="center">
 
-![GitHub Snake Light](https://github.com/PedroVenda27/seu-username/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/PedroVenda27/seu-username/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
-### 📌 Destaques
-- 🎓 Licenciatura em Informática @UMAIA   
-- 🧠 Interesses: **IA/ML, Data Mining, Cloud, Segurança, Desenvolvimento Web**  
-- 🏁 Entusiasta de hardware & motorsport (ASUS G14 tweaker)  
-- 🎨 Design & branding como hobby (logos, posters, pixel art)  
+ ![Snake Game](https://github.com/PedroVenda27/PedroVenda27/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
