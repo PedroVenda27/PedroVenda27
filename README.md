@@ -8,7 +8,7 @@ Tenho especial interesse em **redes e comunicação de dados, cibersegurança, b
 
 ---
 
-## 🧭 O que ando a fazer
+## 🧭 Atualmente a
 - 🌐 A aprofundar conhecimentos em **Redes e Comunicação de Dados**, incluindo protocolos, administração de sistemas e infraestruturas de rede.  
 - 🔌 A desenvolver competências em **sensores e plataformas Arduino**, aplicados a soluções de **IoT e automação inteligente**.  
 - 📱 A estudar **Computação Móvel** e **Gestão de Segurança da Informação**, com enfoque em metodologias de proteção de dados e boas práticas de cibersegurança.  
